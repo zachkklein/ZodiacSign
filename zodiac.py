@@ -127,6 +127,9 @@ break1.pack()
 header2 = Label(window, text='Chinese Zodiac Finder', bg='white', fg='black', font='none 25 bold')
 header2.pack()
 
+text3 = Label(window, text='What year were you born?', bg='white', fg='black', font='none 15 bold')
+text3.pack()
+
 year = Entry(window, width=50, bg='white', fg='black')
 year.pack()
 
