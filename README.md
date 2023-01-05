@@ -64,4 +64,4 @@ def sign():
                 elif num > 31:
                     return 'Error, please try again.'
                 else:
-                    return message + 'Virgo''''
+                    return message + 'Virgo'
